@@ -9,12 +9,12 @@
  
  
 ### 2、熟练使用markdown语法编写markdown文件。并且提交一个完整的数据库设计文档到Question2中。
-markdown基础语法：https://www.appinn.com/markdown/
-(建议只看快速入门)快速入门：https://www.appinn.com/markdown/basic.html
-使用有道云编写markdown：
-简单篇：http://note.youdao.com/iyoudao/?p=2411
-进阶篇：http://note.youdao.com/iyoudao/?p=2445
+#### markdown基础语法：https://www.appinn.com/markdown/
+#### (建议只看快速入门)快速入门：https://www.appinn.com/markdown/basic.html 
+#### 使用有道云编写markdown: 
+#### 简单篇：http://note.youdao.com/iyoudao/?p=2411 
+#### 进阶篇：http://note.youdao.com/iyoudao/?p=2445 
 
-其他markdown编辑软件：小书匠、jetBrains出品的软件，如idea、pycharm都有markdown组件、阿童木
+#### 其他markdown编辑软件：小书匠、jetBrains出品的软件，如idea、pycharm都有markdown组件、阿童木
 
  - 注意：先新建一个以自己名字为文件名的文件夹，再把问题的解决方案放到自己文件夹里
